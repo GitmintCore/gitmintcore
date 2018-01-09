@@ -1,6 +1,6 @@
 ![Gitmint](design/token/rendered/tokenSmall.png)
 
-# Gitmint
+# GitMint Core
 ### Open Source The World
 
 Mission: Value generating projects for Open Source Software - gitcoin.co
