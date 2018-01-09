@@ -1,3 +1,5 @@
+![Gitmint](design/token/rendered/tokenSmall.png)
+
 # Gitmint
 ### Open Source The World
 
